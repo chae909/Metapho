@@ -16,21 +16,21 @@ Metapho/
 ├── 왕진센터.ipynb
 ```
 
-Healthcare.ipynb: 의료 데이터 분석 노트북​
+- Healthcare.ipynb: 의료 데이터 분석 노트북​
 
-final_model.ipynb: 최종 모델 개발 및 평가​
+- final_model.ipynb: 최종 모델 개발 및 평가​
 
-route.ipynb: 라우팅 및 API 설계​
+- route.ipynb: 라우팅 및 API 설계​
 
-route_ipynb_정윤.ipynb: 정윤님의 라우팅 구현​
+- route_ipynb_정윤.ipynb: 정윤님의 라우팅 구현​
 
-route_ipynb_최종+fastapi.ipynb: FastAPI를 활용한 최종 라우팅 구현​
+- route_ipynb_최종+fastapi.ipynb: FastAPI를 활용한 최종 라우팅 구현​
 
-route_ipynb_최종.ipynb: 최종 라우팅 구현​
+- route_ipynb_최종.ipynb: 최종 라우팅 구현​
 
-메타포DA_1.ipynb, 메타포DA_2.ipynb: 데이터 분석 과정​
+- 메타포DA_1.ipynb, 메타포DA_2.ipynb: 데이터 분석 과정​
 
-왕진센터.ipynb: 방문 진료 센터 관련 분석
+- 왕진센터.ipynb: 방문 진료 센터 관련 분석
 
 ## 🚀 주요 기능
 
